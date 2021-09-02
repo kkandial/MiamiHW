@@ -1,31 +1,40 @@
-# TITLE
+# FinTech Case Study: Blockchain & Cryptocurrencies - Coinbase Global, Inc.
+
+By **Krishan Kandial**
+
+September 7, 2021
+
+![Coinbase](coinbase.png)
 
 ## Overview and Origin
 
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
+This case study is on the **Blockchain and Cryptocurrencies** FinTech domain with a focus on **Coinbase Global, Inc** (Coinbase). The company was founded on June 20, 2012, by Brian Armstrong and Fred Ehrsam [^1]. Coinbase was founded on the idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin [^2]. Coinbase was initially funded by a round of Series investment from various investors, to name a few:
+* Pegasus Tech Ventures
+* Paradigm
+* Proioxis Ventures Fund
+* True Capital Management
+* Fundamental Labs
+* Chainfund Capital
+* Manhattan Ventures Partners 
+* Next Play Capital
+* K2 Global
+From the company's latest funding in October 2020 they have raised a total of $547.3M. On April 14, 2021, Coinbase went public with an Initial Public Offering (IPO), the opening price per share was $381.00 [^3].
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+Coinbase's mission is to create an open financial system for the world and to be the leading global brand for helping people convert digital currency into and out of their local currency [^4]. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+The company’s intended customer is the world population. Based on the company’s website to date they have over 68 million verified users in 100+ countries [^2]. 
+
+They have an easier user interface which is more suitable for beginners and non-technical persons to start trading cryptocurrencies [^5]. By making the interface usable it attracts more customers and encourages the use of blockchain and cryptocurrency technology. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 
+
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+Coinbase is within the Blockchain and Cryptocurrencies domain of the Fintech industry.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -50,15 +59,9 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
-```
 
-### 4. Write the case study.
-
-Write the finished case study report in a markdown `README.md` file, using the above case study template. Your report should be sufficiently long to ensure you provide all relevant information about the company or project in a thorough manner.
-
-Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
-
-
-### 5. Upload your case study to your git repository.
-
-You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
+[^1] https://en.m.wikipedia.org/wiki/Coinbase
+[^2] https://www.coinbase.com/about 
+[^3] https://www.crunchbase.com/organization/coinbase/company_financials 
+[^4] https://help.coinbase.com/en/coinbase/getting-started/crypto-education/what-is-coinbase 
+[^5] https://www.businessinsider.com/personal-finance/binance-vs-coinbase
