@@ -60,7 +60,7 @@ Coinbase should consider the following:
 * Use more fiat currency for trading,
 * Expand the company to support other countries.
 
-By doing the above Coinbase will attract more customer and expand the use of Bloackchain and Crytocurrency domain.  
+By doing the above Coinbase will attract more customer and expand the use of Bloackchain and Cryptocurrency domain.  
 
 [^1] https://en.m.wikipedia.org/wiki/Coinbase
 [^2] https://www.coinbase.com/about 
